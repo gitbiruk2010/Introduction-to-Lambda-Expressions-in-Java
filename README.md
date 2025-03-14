@@ -2,9 +2,11 @@ Introduction to Lambda Expressions in Java
 
 This project demonstrates the use of Lambda Expressions in Java through various tasks. Each task is implemented in a separate Java file and covers different aspects of Lambda Expressions.
 
-Screenshots:
+## Screenshots
+
 ![img.png](img.png)
-Project Structure
+
+## Project Structure
 
 The project contains the following Java files:
 
